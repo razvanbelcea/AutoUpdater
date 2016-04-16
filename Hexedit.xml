@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<updates total ="1">
+  <file name="test1">
+    <server>hexedit/test1.xml</server>
+    <local>test1.dat</local>
+    <update>3</update>
+  </file>
+</updates>

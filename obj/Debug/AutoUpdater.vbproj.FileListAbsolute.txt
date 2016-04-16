@@ -1,0 +1,10 @@
+C:\Users\razva\Source\Repos\AutoUpdater\bin\Debug\AutoUpdater.exe
+C:\Users\razva\Source\Repos\AutoUpdater\bin\Debug\AutoUpdater.pdb
+C:\Users\razva\Source\Repos\AutoUpdater\bin\Debug\AutoUpdater.xml
+C:\Users\razva\Source\Repos\AutoUpdater\obj\Debug\AutoUpdater.vbprojResolveAssemblyReference.cache
+C:\Users\razva\Source\Repos\AutoUpdater\obj\Debug\AutoUpdater.AutoUpdater.resources
+C:\Users\razva\Source\Repos\AutoUpdater\obj\Debug\AutoUpdater.Resources.resources
+C:\Users\razva\Source\Repos\AutoUpdater\obj\Debug\AutoUpdater.vbproj.GenerateResource.Cache
+C:\Users\razva\Source\Repos\AutoUpdater\obj\Debug\AutoUpdater.exe
+C:\Users\razva\Source\Repos\AutoUpdater\obj\Debug\AutoUpdater.xml
+C:\Users\razva\Source\Repos\AutoUpdater\obj\Debug\AutoUpdater.pdb
